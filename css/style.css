@@ -9,8 +9,6 @@ html, body{
 
 .content-wrap{
     width: 100%;
-    /*background: #0cce82;*/
-    /*border: 1px solid #000;*/
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -21,8 +19,6 @@ html, body{
 .content{
     width: 100%;
     padding: 80px 0;
-    /*border: 1px solid #000;*/
-    /*text-transform: uppercase;*/
 }
 
 ul, ol{
@@ -47,7 +43,6 @@ a:hover {
 
 ul, ol li a:before {
     content: url("/img/ico/folder_code_24dp_0D6EFD_FILL0_wght400_GRAD0_opsz24.svg");
-    /*content: url("/img/ico/folder_code_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg");*/
     position: absolute;
     top: -2px;
     left: 0;
@@ -57,28 +52,12 @@ ul, ol li a:before {
     position: absolute;
     bottom: 0;
     right: 0;
-    /*display: flex;*/
-    /*justify-content: center;*/
     padding-right: 15px;
     padding-bottom: 15px;
 }
 
-/*.github-repo-wrapper:before{*/
-/*    content: "";*/
-/*    position: absolute;*/
-/*    right: 0;*/
-/*    bottom: 0;*/
-/*    width: 0;*/
-/*    height: 0;*/
-/*    !*border: 1px solid #000;*!*/
-/*    border-bottom: 50px solid #000;*/
-/*    border-left: 50px solid transparent;*/
-/*    z-index: 1;*/
-/*}*/
 
 .github-repo-wrapper{
-    /*position: relative;*/
-    /*z-index: 2;*/
     transition: .3s;
 }
 .github-repo-wrapper:hover{
@@ -90,5 +69,4 @@ ul, ol li a:before {
     height: 50px;
     position: relative;
     z-index: 10;
-    /*border: 1px solid #000;*/
 }
