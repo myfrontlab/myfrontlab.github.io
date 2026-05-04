@@ -1,0 +1,1 @@
+function res(){var n=$(window).width()+"x"+$(window).height();$(".resolution-marker").text(n)}$(document).ready(function(){res()}),$(window).on("resize",function(){res()});

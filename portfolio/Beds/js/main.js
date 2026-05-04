@@ -1,0 +1,1 @@
+$("input[type='checkbox']").ionCheckRadio(),$(function(){$("form").submit(function(o){var e=$(this);$.ajax({type:e.attr("method"),url:e.attr("action"),data:e.serialize()}).done(function(){console.log("success"),$.fancybox.close(),$(".modal-open").click(),setTimeout(" $.fancybox.close();",3e3)}).fail(function(){console.log("fail")}),o.preventDefault()})});

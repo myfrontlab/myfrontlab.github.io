@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="671" width="671"><path d="M671 335.5A335.5 335.5 0 01335.5 671 335.5 335.5 0 010 335.5 335.5 335.5 0 01335.5 0 335.5 335.5 0 01671 335.5z" fill="#bbe24b"/></svg>vg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg827"
+   version="1.1"
+   fill="none"
+   viewBox="0 0 671 671"
+   height="671"
+   width="671">
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs831" />
+  <path
+     id="circle825"
+     d="M 671,335.5 A 335.5,335.5 0 0 1 335.5,671 335.5,335.5 0 0 1 0,335.5 335.5,335.5 0 0 1 335.5,0 335.5,335.5 0 0 1 671,335.5 Z"
+     style="fill:#bbe24b" />
+</svg>
